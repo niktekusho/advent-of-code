@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier . --write",
+    "format:check": "prettier . --check"
+  },
+  "keywords": [],
+  "author": "Nicola Dal Maso <nicola.dalmaso@outlook.com> (https://github.com/niktekusho)",
+  "license": "MIT",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.0",
+    "@types/node": "^20",
+    "prettier": "^3.4.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

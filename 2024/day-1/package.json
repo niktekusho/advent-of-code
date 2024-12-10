@@ -1,0 +1,14 @@
+{
+  "name": "day-1",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node --import tsx src/index.ts",
+    "format": "prettier src *.md --write",
+    "format:check": "prettier src *.md --check"
+  },
+  "keywords": [],
+  "author": "Nicola Dal Maso <nicola.dalmaso@outlook.com> (https://github.com/niktekusho)",
+  "license": "MIT"
+}
