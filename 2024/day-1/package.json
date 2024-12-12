@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "start": "node --import tsx src/index.ts",
+    "start": "node --import tsx src/part1.ts && node --import tsx src/part2.ts",
     "format": "prettier src *.md --write",
     "format:check": "prettier src *.md --check"
   },
